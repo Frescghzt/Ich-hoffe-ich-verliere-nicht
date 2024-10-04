@@ -39,7 +39,7 @@ Este programa en Java tiene dos funcionalidades principales relacionadas con nú
   - El programa utiliza un bucle `for` para recorrer los números del 1 al 100.
   - Para cada número, se verifica si es primo utilizando un enfoque similar al anterior.
   - Si el número es primo, se imprime en la consola.
-##Autor:
-  -Juan José Zambrano Manzano - 192327
+## Autor:
+  - Juan José Zambrano Manzano - 192327
 
 
