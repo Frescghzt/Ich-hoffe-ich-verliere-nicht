@@ -10,7 +10,7 @@ Este programa genera y muestra los primeros 50 números de la secuencia de Fibon
 - Los dos primeros elementos de la secuencia se inicializan en 0 y 1.
 - A continuación, se utiliza un bucle `for` para calcular los siguientes números de la secuencia hasta `n`.
 - Finalmente, los números generados se imprimen en la consola.
-##2.FizzBuzz.java
+## 2.FizzBuzz.java
 
 ## Descripción:
 Este programa implementa ciertos requisitos del 1 al 100
@@ -23,7 +23,7 @@ Este programa implementa ciertos requisitos del 1 al 100
 - Un bucle `for` recorre los números del 1 al 100.
 - Se utilizan condicionales `if-else` para verificar la divisibilidad por 3 y 5.
 - Dependiendo del resultado, el programa imprime la cadena correspondiente o el número.
-##3. Primos.java
+## 3. Primos.java
 
 ## Descripción:
 Este programa en Java tiene dos funcionalidades principales relacionadas con números primos:
